@@ -1,0 +1,20 @@
+-->set name and email
+
+git config --global user.name "ABHI"
+git config --global user.email "abhi.andani5511@gmail.com"
+
+-->if you want any help then
+
+git config --help  
+or 
+git help config
+
+-->cd to change the directory
+
+like just write cd and your folder name (use tab to get the folder name direct)
+
+cd Desktop/git
+
+-->ls -la
+
+to see folder info which we are working on
