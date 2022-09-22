@@ -18,3 +18,17 @@ cd Desktop/git
 -->ls -la
 
 to see folder info which we are working on
+
+-->remove file
+
+rm -rf 
+
+it is used to delete or remove any file from the directory in which we are working on
+
+-->move to staging area
+
+git add-A (move all file)
+
+-->remove file from stagged area
+
+git reset (file_name)
